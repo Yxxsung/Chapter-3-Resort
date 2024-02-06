@@ -16,3 +16,5 @@ footer-element{font-size: .70em; text-align: center; font-size: small;}
 could not for the life of me figure this out, ask in class*/
 
 .resort {color: #1976D2; font-size: 1.2em;}
+
+#wrapper {width: 80%; margin-right: auto; margin-left: auto;}
