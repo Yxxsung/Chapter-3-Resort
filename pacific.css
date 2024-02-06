@@ -1,1 +1,9 @@
-body-element {background-color: #FFFFFF;}
+body-element {color: #666666; background-color: #FFFFFF; font: verdana}
+
+header-element {background-color: #002171; color: #FFFFFF; font: Georgia}
+
+h1-element {line-height: 200%;}
+
+nav-element {text-decoration: none; background-color: #BBDEFB; font-weight: bold;}
+
+h2-element{color: #1976D2; font: Georgia;}
