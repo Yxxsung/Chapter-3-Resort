@@ -7,3 +7,11 @@ h1-element {line-height: 200%;}
 nav-element {text-decoration: none; background-color: #BBDEFB; font-weight: bold;}
 
 h2-element{color: #1976D2; font: Georgia;}
+
+dt-element{color: #002171; font-weight:bold;}
+
+footer-element{font-size: .70em; text-align: center; font-size: small;}
+
+/*supposed to add a class called resort and set it to medium blue text color #1976D2 with 1.2em font size
+could not for the life of me figure this out, ask in class*/
+
